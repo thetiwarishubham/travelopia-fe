@@ -1,8 +1,8 @@
 # Introduction 
 Travelopia FE App -- React.js
-```sh
-https://travelopia-fe.onrender.com/
-```
+
+The frontend for this project can be accessed at [https://travelopia-fe.onrender.com/](https://travelopia-fe.onrender.com/).
+
 
 ### Installation
 1. Clone the repo
