@@ -1,0 +1,29 @@
+/* App.css */
+.App {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+  }
+  
+  .navigation {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navigation ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navigation li {
+    margin: 0 10px;
+  }
+  
+  .main-content {
+    padding: 20px;
+  }
+  

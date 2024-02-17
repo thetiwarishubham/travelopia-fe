@@ -1,0 +1,27 @@
+.detail-container {
+    margin-top: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .detail-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .detail-table th,
+  .detail-table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .detail-table th {
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .detail-table td {
+    vertical-align: top;
+  }
+  
